@@ -24,19 +24,19 @@
         </h2>
         <form id="search-form" class="form">
           <div class="form-inline form-group">
-            <div class="input-group">
               <input class="form-input weather-search" type="text" id="city-input" placeholder="London"
                 aria-labelledby="form-heading" aria-controls="today forecast" />
-              <div class="input-group-append">
-                <button type="submit" id="add-city">
-                  Search
-                </button>
-              </div>
-            </div>
           </div>
+          <div class="input-group-append">
+            <button type="submit" id="add-city">
+              Search
+            </button>
+          </div>
+  
         </form>
+
         <div class="list-group" id="history">
-          <div class="card" style="width: 16rem;">
+          <div  style="width: 16rem;">
             <ul id="city-list" class="list-group list-group-flush">
             </ul>
           </div>
@@ -66,8 +66,6 @@
     </div>
 
   </div>
-
-
   <!-- Moment.js -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"></script>
   <!-- jQuery -->
