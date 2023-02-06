@@ -4,7 +4,7 @@ Open weather dashboard to identify weather results and outlook, in various citie
  
 ## Link to deployed application
 
-https:....................
+https://tsarjoengc.github.io/New-City-New-Weather/
 
 ## Description 
 
@@ -56,7 +56,7 @@ Server APIs allow developers to access their data and functionality by making re
 
 - [Media Query Documentation](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
-- [WeatherMapAPI] (https://openweathermap.org/api)
+- [WeatherMapAPI](https://openweathermap.org/api)
 
 
 
